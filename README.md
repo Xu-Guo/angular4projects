@@ -20,7 +20,7 @@ A simple client manage application built with angular 4, bootstrap. Back-end use
 
 
 ### Demo Images
-![alt text](https://github.com/Xu-Guo/express_projects/blob/master/demoimages/chatio.png)
+![alt text](https://github.com/Xu-Guo/angular4projects/blob/master/demoimages/ck.png)
 <hr>
 
 ### Installation
